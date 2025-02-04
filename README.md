@@ -26,7 +26,7 @@
 
 ## 🚀 Skills
 - Honestly, there are MANY 😄
-lets make it easy by just checking out the <a href="www.linkedin.com/in/mir-ayan-ali-9423b0286">Linkedin profile</a>
+lets make it easy by just checking out the <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">Linkedin profile</a>
 
 ## 🔥 Stats
 
