@@ -70,7 +70,7 @@ lets make it easy by just checking out the <a href="https://www.linkedin.com/in/
   <a href="mailto:mirayanali5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
