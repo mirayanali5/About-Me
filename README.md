@@ -39,8 +39,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ## 🚀 Skills
-- Honestly, there are MANY 😄
-lets make it easy by just checking out the <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">Linkedin profile</a>
+- lets make it easy by just checking out the <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">Linkedin profile</a>
 
 ## 🔥 Stats
 
