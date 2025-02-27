@@ -39,7 +39,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ## 🚀 Skills
-- lets make it easy by just checking out the <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">Linkedin profile</a>
+- Lets make it easy by just checking out the <a href="https://www.linkedin.com/in/mir-ayan-ali-9423b0286/">Linkedin profile</a>
 
 ## 🔥 Stats
 
@@ -51,7 +51,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 GPA: 7.5/10
+- 🎓 GPA: 7.5 / 10
 
 ## 📫 Connect With Me
 
