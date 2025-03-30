@@ -52,7 +52,7 @@
 
 ## 🏆 Achievements
 
-- 🎓 GPA: 7.5 / 10
+- 🎓 GPA: 7.8 / 10
 
 ## 📫 Connect With Me
 
