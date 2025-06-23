@@ -8,7 +8,7 @@
 
 <div>
   <samp>
-    
+    I am Mir Ayan Ali, a passionate Computer Science and Engineering student at Methodist College of Engineering and Technology. With a keen interest in coding, I am dedicated to mastering back-end development and aspire to contribute to a leading organization. Fueled by determination and a love for technology, I am committed to carving a meaningful path in the ever-evolving field of Computer Science and Engineering.
   </samp>
 </div>
 
